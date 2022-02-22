@@ -160,3 +160,12 @@ _深度学习开源框架_
 `mxnet`<br>
 `keras`<br>
 `优化器详解(GD,SGD,RMSprop等`<br>
+
+
+
+
+**不错的知识点解析**
+***
+[NLP中的Attention原理和源码解析](https://zhuanlan.zhihu.com/p/43493999)
+
+[Transformer模型原理详解](https://zhuanlan.zhihu.com/p/44121378)
