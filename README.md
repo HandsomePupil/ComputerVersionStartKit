@@ -13,6 +13,9 @@ expert in AI algorithm.He graduated from top 3 University in France with a doubl
 (double master's degree in computer science and mathematical application).
 ```
 
+[写在一切的前面：一本顶级的电子图书](https://luweikxy.gitbook.io/machine-learning-notes/)
+
+
 **第一章：机器学习与计算机视觉**
 ***
 
