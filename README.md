@@ -166,9 +166,18 @@ _深度学习开源框架_
 
 
 
-
 **不错的知识点解析**
 ***
+**Transformer相关**
+***
+[Attention Is All You Need 2017开山之作](https://arxiv.org/pdf/1706.03762.pdf)
+
 [NLP中的Attention原理和源码解析](https://zhuanlan.zhihu.com/p/43493999)
 
 [Transformer模型原理详解](https://zhuanlan.zhihu.com/p/44121378)
+
+[ViT Transformer应用到CV的首作](https://arxiv.org/pdf/2010.11929.pdf)
+
+[Swin Transformer节约注意力计算量，增加Token间信息交互](https://arxiv.org/pdf/2103.14030.pdf)
+
+[S-Transformer超详细的介绍视频](https://www.bilibili.com/video/BV1pL4y1v7jC/?spm_id_from=333.788)
