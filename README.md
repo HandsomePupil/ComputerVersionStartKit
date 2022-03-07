@@ -134,7 +134,11 @@ _深度学习与神经网络_
 `深度学习简介`<br>
 `基本的深度学习架构`<br>
 `神经元`<br>
-`激活函数详解（sigmoid、tanh、relu等）`<br>
+`激活函数详解（sigmoid、softmax、tanh、relu等）`<br>
+>[sigmoid详解---](https://zhuanlan.zhihu.com/p/24990626)
+>[softmax详解---](https://blog.csdn.net/lz_peter/article/details/84574716)
+>[relu详解---](https://www.jianshu.com/p/338afb1389c9)
+
 `感性认识隐藏层`<br>
 `如何定义网络层`<br>
 `损失函数` <br>
