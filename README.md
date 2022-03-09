@@ -142,6 +142,7 @@ _深度学习与神经网络_
 `感性认识隐藏层`<br>
 `如何定义网络层`<br>
 `损失函数` <br>
+>[CE，MSE，交叉熵损失函数---](https://zhuanlan.zhihu.com/p/35709485)
 
 _推理和训练_
 
@@ -172,6 +173,10 @@ _深度学习开源框架_
 
 **不错的知识点解析**
 ***
+**入门论文**
+***
+[《Gradient-based learning applied to document recognition》CNN万物之源](https://ieeexplore.ieee.org/document/726791)
+
 **Transformer相关**
 ***
 [Attention Is All You Need 2017开山之作](https://arxiv.org/pdf/1706.03762.pdf)
