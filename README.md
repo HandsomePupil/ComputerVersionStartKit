@@ -177,6 +177,8 @@ _深度学习开源框架_
 ***
 [《Gradient-based learning applied to document recognition》CNN万物之源](https://ieeexplore.ieee.org/document/726791)
 
+[《ImageNet Classification with Deep Convolutional Neural Networks》2012冠军网络AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+
 **Transformer相关**
 ***
 [Attention Is All You Need 2017开山之作](https://arxiv.org/pdf/1706.03762.pdf)
