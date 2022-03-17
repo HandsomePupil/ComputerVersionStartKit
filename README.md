@@ -5,7 +5,7 @@ Fine,"Watermelon Book or Flower Book"  are't fit to idiot like me !
 
 So build a StartKit(what is really fundational knowledge)for myself !
 
-Next are copyed from someone's paper,read it may help you build the knowledge structure of CV fastly and briefly.
+Next CV Knowledge-Trees are copyed from someone's paper,read it may help you build the knowledge structure of CV fastly and briefly.
 
 ```
 Thanks to the original author Wang Xiaotian. Currently working at BAT,  he is a senior technical 
@@ -41,7 +41,11 @@ _机器学习的数学基础_
 
  **计算机视觉与机器学习基础**
  
-_图像和视频_
+_图像和视频_  
+
+>传统的CV与[数字图像处理](https://blog.csdn.net/weixin_43848614/article/details/122255196)息息相关，以下是两篇能快速了解一些热点专业词汇的文章  
+>[数字图像处理基础1](https://blog.csdn.net/Strive_0902/article/details/78026816)  
+>[数字图像处理基础2](https://blog.csdn.net/qq_39431829/article/details/103350365)
 
 `图像的取样与量化`<br>
 `滤波`<br>
