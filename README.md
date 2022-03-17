@@ -147,11 +147,15 @@ _深度学习与神经网络_
 _推理和训练_
 
 `神经网络的推理和训练`<br>
+>[实战：在../Codingry/CNN文件夹中持续更新几大经典网络的推理和训练代码](https://github.com/HandsomePupil/ComputerVersionStartKit/tree/main/CodingTry/CNN)
+
 `bp算法详解`<br>
 `归一化`<br>
 `Batch Normalization详解`<br>
 `解决过拟合`<br>
 `dropout`<br>
+>[dropout(0.5)?Rescale如何弥补dropout的参数？](https://zhuanlan.zhihu.com/p/77609689)
+
 `softmax`<br>
 `手推神经网络的训练过程 `<br>
 
