@@ -200,3 +200,9 @@ _深度学习开源框架_
 [Swin Transformer节约注意力计算量，增加Token间信息交互](https://arxiv.org/pdf/2103.14030.pdf)
 
 [S-Transformer超详细的介绍视频](https://www.bilibili.com/video/BV1pL4y1v7jC/?spm_id_from=333.788)
+
+**对抗样本**
+***
+[Intriguing properties of neural networks  源头](https://arxiv.org/pdf/1312.6199.pdf)
+
+[对抗样本领域当前最不错的综述](https://arxiv.org/pdf/1801.00553.pdf)
