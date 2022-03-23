@@ -187,6 +187,10 @@ _深度学习开源框架_
 
 [《ImageNet Classification with Deep Convolutional Neural Networks》2012冠军网络AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 
+**CNN相关**
+***
+[Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs大核卷积](https://arxiv.org/pdf/2203.06717.pdf )
+
 **Transformer相关**
 ***
 [Attention Is All You Need 2017开山之作](https://arxiv.org/pdf/1706.03762.pdf)
