@@ -187,6 +187,11 @@ _深度学习开源框架_
 
 [《ImageNet Classification with Deep Convolutional Neural Networks》2012冠军网络AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 
+[《Going Deeper with Convolutions》2015CVPR GoogLeNet 作者大写了L用于致敬LeNet！](https://research.google/pubs/pub43022.pdf)
+
+[《Deep Residual Learning for Image Recognition》工业界滴xing！](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+>续文《ResNeXt》中提到了“组卷积-Group Convolutional”，在大于3层的模块中有一定效果。
+
 **CNN相关**
 ***
 [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs大核卷积](https://arxiv.org/pdf/2203.06717.pdf )
