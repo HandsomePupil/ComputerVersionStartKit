@@ -153,11 +153,15 @@ _推理和训练_
 `神经网络的推理和训练`<br>
 >[实战：在../Codingry/CNN文件夹中持续更新几大经典网络的推理和训练代码](https://github.com/HandsomePupil/ComputerVersionStartKit/tree/main/CodingTry/CNN)
 
-`bp算法详解`<br>
+`bp算法详解`  
 `归一化`<br>
-`Batch Normalization详解`<br>
-`解决过拟合`<br>
-`dropout`<br>
+`Normalization详解`  
+>[Batch Normalization](https://blog.csdn.net/qq_37541097/article/details/104434557)  
+>[Layer Normalization](https://blog.csdn.net/qq_37541097/article/details/117653177)  
+>[Group Normalization](https://blog.csdn.net/qq_37541097/article/details/118016048)  
+
+`解决过拟合`  
+`dropout`  
 >[dropout(0.5)?Rescale如何弥补dropout的参数？](https://zhuanlan.zhihu.com/p/77609689)
 
 `softmax`<br>
