@@ -204,6 +204,8 @@ _深度学习开源框架_
 ***
 [Attention Is All You Need 2017开山之作](https://arxiv.org/pdf/1706.03762.pdf)
 
+[Attention的整体概述](https://zhuanlan.zhihu.com/p/37601161)
+
 [NLP中的Attention原理和源码解析](https://zhuanlan.zhihu.com/p/43493999)
 
 [Transformer模型原理详解](https://zhuanlan.zhihu.com/p/44121378)
