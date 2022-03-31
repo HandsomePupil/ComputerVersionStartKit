@@ -185,6 +185,12 @@ _深度学习开源框架_
 
 **不错的知识点解析**
 ***
+[细讲Attention](https://cloud.tencent.com/developer/article/1377062)
+
+[何为Ground-truth,框是怎么预测的](https://www.cnblogs.com/boligongzhu/p/15066380.html)
+
+[GIoU](https://blog.csdn.net/weixin_41735859/article/details/89288493)
+
 **入门论文**
 ***
 [《Gradient-based learning applied to document recognition》CNN万物之源](https://ieeexplore.ieee.org/document/726791)
@@ -215,6 +221,11 @@ _深度学习开源框架_
 [Swin Transformer节约注意力计算量，增加Token间信息交互](https://arxiv.org/pdf/2103.14030.pdf)
 
 [S-Transformer超详细的介绍视频](https://www.bilibili.com/video/BV1pL4y1v7jC/?spm_id_from=333.788)
+
+**目标跟踪**
+***
+[MixFormer-跟踪端到端新范式，合并特征提取与融合](xiv.org/pdf/2203.11082.pdf)  
+
 
 **对抗样本**
 ***
