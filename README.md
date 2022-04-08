@@ -15,6 +15,9 @@ expert in AI algorithm.He graduated from top 3 University in France with a doubl
 
 [写在一切的前面：一本顶级的电子图书](https://luweikxy.gitbook.io/machine-learning-notes/)
 
+[写在一切的前面：北大R语言学习电子书](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
+
+[写在一切的前面：R绘图](https://r-graph-gallery.com/)
 
 **第一章：机器学习与计算机视觉**
 ***
