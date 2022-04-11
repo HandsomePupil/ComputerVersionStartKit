@@ -164,8 +164,9 @@ _推理和训练_
 >[Group Normalization](https://blog.csdn.net/qq_37541097/article/details/118016048)  
 
 `解决过拟合`  
-`dropout`  
->[dropout(0.5)?Rescale如何弥补dropout的参数？](https://zhuanlan.zhihu.com/p/77609689)
+`drop方法`  
+>[dropout(0.5)?Rescale如何弥补dropout的参数？](https://zhuanlan.zhihu.com/p/77609689)  
+>[droppath(0.5)?droppath理解](https://liubingqing.blog.csdn.net/article/details/122887143)
 
 `softmax`<br>
 `手推神经网络的训练过程 `<br>
