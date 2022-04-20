@@ -91,26 +91,6 @@ _聚类算法_
 `密度聚类`<br>
 `谱聚类 `<br>
 
-_坐标变换与视觉测量_
-
-`左右手坐标系及转换`<br>
-`万向锁`<br>
-`旋转矩阵`<br>
-`四元数 `<br>
-
-_三维计算机视觉_
-
-`立体视觉`<br>
-`多视几何`<br>
-`SIFT算法 `<br>
-
-_三维计算机视觉与点云模型_
-
-`PCL点云模型`<br>
-`spin image`<br>
-`三维重构`<br>
-`SFM算法`<br>
-
 _图像滤波器_
 
 `直通滤波`<br>
@@ -120,6 +100,9 @@ _图像滤波器_
 `半径滤波`<br>
 `图像增加噪声与降噪`<br>
 
+_数学方法_
+
+[`蒙特卡洛法`](https://zhuanlan.zhihu.com/p/150729238)<br>
  **OpenCV详解**
  
 _OpenCV算法解析_
@@ -225,6 +208,14 @@ _深度学习开源框架_
 [Swin Transformer节约注意力计算量，增加Token间信息交互](https://arxiv.org/pdf/2103.14030.pdf)
 
 [S-Transformer超详细的介绍视频](https://www.bilibili.com/video/BV1pL4y1v7jC/?spm_id_from=333.788)
+
+**传统目标跟踪**
+***
+[LK光流法](https://www.cnblogs.com/riddick/p/10586662.html)
+
+[粒子滤波跟踪算法图解](https://blog.csdn.net/dieju8330/article/details/85020056)
+
+[MeanShift均值滤波跟踪](https://www.cnblogs.com/wenyangyang/p/15658853.html)
 
 **目标跟踪**
 ***
