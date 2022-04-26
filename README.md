@@ -221,6 +221,9 @@ _深度学习开源框架_
 ***
 [单目标跟踪基本概念与术语](https://zhuanlan.zhihu.com/p/402380960)
 
+[SiamFC 孪生网络跟踪开山之作](https://arxiv.org/pdf/1606.09549)
+>[代码细节解读](https://blog.csdn.net/qq_41831753/article/details/113783627)
+
 [MixFormer-跟踪端到端新范式，合并特征提取与融合](xiv.org/pdf/2203.11082.pdf)  
 
 
