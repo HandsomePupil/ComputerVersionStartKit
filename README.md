@@ -198,6 +198,7 @@ _深度学习开源框架_
 **Transformer相关**
 ***
 [Attention Is All You Need 2017开山之作](https://arxiv.org/pdf/1706.03762.pdf)
+>[位置编码为何为Sin-Cos](https://blog.csdn.net/weixin_45424997/article/details/108503792)
 
 [Attention的整体概述](https://zhuanlan.zhihu.com/p/37601161)
 
