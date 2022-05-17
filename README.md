@@ -191,6 +191,8 @@ _深度学习开源框架_
 [《Deep Residual Learning for Image Recognition》工业界滴xing！](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 >续文《ResNeXt》中提到了“组卷积-Group Convolutional”，在大于3层的模块中有一定效果。
 
+[MAE 何凯明CV自监督挖坑作](https://arxiv.org/pdf/2111.06377)
+
 **CNN相关**
 ***
 [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs大核卷积](https://arxiv.org/pdf/2203.06717.pdf )
@@ -211,6 +213,11 @@ _深度学习开源框架_
 [Swin Transformer节约注意力计算量，增加Token间信息交互](https://arxiv.org/pdf/2103.14030.pdf)
 
 [S-Transformer超详细的介绍视频](https://www.bilibili.com/video/BV1pL4y1v7jC/?spm_id_from=333.788)
+
+**Conv-T Mix相关**
+***
+[ConvMAE](https://arxiv.org/pdf/2205.03892)
+>[稀疏卷积](https://zhuanlan.zhihu.com/p/383299678)
 
 **传统目标跟踪**
 ***
