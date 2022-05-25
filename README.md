@@ -180,6 +180,7 @@ _深度学习开源框架_
 
 [GIoU](https://blog.csdn.net/weixin_41735859/article/details/89288493)
 
+[RPN](https://blog.csdn.net/weixin_44211398/article/details/91613803)
 **入门论文**
 ***
 [《Gradient-based learning applied to document recognition》CNN万物之源](https://ieeexplore.ieee.org/document/726791)
