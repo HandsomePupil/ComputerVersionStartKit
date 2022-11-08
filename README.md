@@ -238,9 +238,18 @@ _深度学习开源框架_
 
 [MixFormer-跟踪端到端新范式，合并特征提取与融合](https://arxiv.org/pdf/2203.11082)  
 
+[AToM](https://arxiv.org/pdf/1811.07628.pdf)  
+>[代码流程解读1](https://zhuanlan.zhihu.com/p/323700929)
+>[代码细节解读2](https://zhuanlan.zhihu.com/p/323700929)
+
+[DiMP](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)  
 
 **对抗样本**
 ***
 [Intriguing properties of neural networks  源头](https://arxiv.org/pdf/1312.6199.pdf)
 
 [对抗样本领域当前最不错的综述](https://arxiv.org/pdf/1801.00553.pdf)
+
+**RGBD Tracking**
+***
+[DepthTrack: Unveiling the Power of RGBD Tracking](https://github.com/xiaozai/DeT)
