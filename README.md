@@ -243,6 +243,7 @@ _深度学习开源框架_
 >[代码细节解读2](https://zhuanlan.zhihu.com/p/323700929)
 
 [DiMP](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)  
+>[ATOM、DiMP代码执行过程详解](https://blog.csdn.net/qq_41831753/article/details/120473107)
 
 **对抗样本**
 ***
