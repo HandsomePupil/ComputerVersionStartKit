@@ -19,6 +19,99 @@ expert in AI algorithm.He graduated from top 3 University in France with a doubl
 
 [写在一切的前面：R绘图](https://r-graph-gallery.com/)
 
+
+**不错的知识点解析**
+***
+[细讲Attention](https://cloud.tencent.com/developer/article/1377062)
+
+[Multi-head-Attention](https://zhuanlan.zhihu.com/p/365386753)
+
+[初探ViT](https://zhuanlan.zhihu.com/p/449389121)
+
+[何为Ground-truth,框是怎么预测的](https://www.cnblogs.com/boligongzhu/p/15066380.html)
+
+[GIoU](https://blog.csdn.net/weixin_41735859/article/details/89288493)
+
+[RPN](https://blog.csdn.net/weixin_44211398/article/details/91613803)
+
+**入门论文**
+***
+[《Gradient-based learning applied to document recognition》CNN万物之源](https://ieeexplore.ieee.org/document/726791)
+
+[《ImageNet Classification with Deep Convolutional Neural Networks》2012冠军网络AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+
+[《Going Deeper with Convolutions》2015CVPR GoogLeNet 作者大写了L用于致敬LeNet！](https://research.google/pubs/pub43022.pdf)
+
+[《Deep Residual Learning for Image Recognition》工业界滴xing！](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+>续文《ResNeXt》中提到了“组卷积-Group Convolutional”，在大于3层的模块中有一定效果。
+
+[MAE 何凯明CV自监督挖坑作](https://arxiv.org/pdf/2111.06377)
+
+**CNN相关**
+***
+[Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs大核卷积](https://arxiv.org/pdf/2203.06717.pdf )
+
+**Transformer相关**
+***
+[Attention Is All You Need 2017开山之作](https://arxiv.org/pdf/1706.03762.pdf)
+>[位置编码为何为Sin-Cos](https://blog.csdn.net/weixin_45424997/article/details/108503792)
+
+[Attention的整体概述](https://zhuanlan.zhihu.com/p/37601161)
+
+[NLP中的Attention原理和源码解析](https://zhuanlan.zhihu.com/p/43493999)
+
+[Transformer模型原理详解](https://zhuanlan.zhihu.com/p/44121378)
+
+[ViT Transformer应用到CV的首作](https://arxiv.org/pdf/2010.11929.pdf)
+
+[Swin Transformer节约注意力计算量，增加Token间信息交互](https://arxiv.org/pdf/2103.14030.pdf)
+
+[S-Transformer超详细的介绍视频](https://www.bilibili.com/video/BV1pL4y1v7jC/?spm_id_from=333.788)
+
+**Conv-T Mix相关**
+***
+[ConvMAE](https://arxiv.org/pdf/2205.03892)
+>[稀疏卷积](https://zhuanlan.zhihu.com/p/383299678)
+
+**传统目标跟踪**
+***
+[LK光流法](https://www.cnblogs.com/riddick/p/10586662.html)
+
+[粒子滤波跟踪算法图解](https://blog.csdn.net/dieju8330/article/details/85020056)
+
+[MeanShift均值滤波跟踪](https://www.cnblogs.com/wenyangyang/p/15658853.html)
+
+**目标跟踪**
+***
+[单目标跟踪基本概念与术语](https://zhuanlan.zhihu.com/p/402380960)
+
+[SiamFC 孪生网络跟踪开山之作](https://arxiv.org/pdf/1606.09549)
+>[代码细节解读](https://blog.csdn.net/qq_41831753/article/details/113783627)
+
+[MixFormer-跟踪端到端新范式，合并特征提取与融合](https://arxiv.org/pdf/2203.11082)  
+
+[AToM](https://arxiv.org/pdf/1811.07628.pdf)  
+>[代码流程解读1](https://zhuanlan.zhihu.com/p/323700929)
+>[代码细节解读2](https://zhuanlan.zhihu.com/p/323700929)
+
+[DiMP](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)  
+>[ATOM、DiMP代码执行过程详解](https://blog.csdn.net/qq_41831753/article/details/120473107)
+
+**对抗样本**
+***
+[Intriguing properties of neural networks  源头](https://arxiv.org/pdf/1312.6199.pdf)
+
+[对抗样本领域当前最不错的综述](https://arxiv.org/pdf/1801.00553.pdf)
+
+**RGBD Tracking**
+***
+[DepthTrack: Unveiling the Power of RGBD Tracking](https://github.com/xiaozai/DeT)
+
+***
+***
+***
+**入门CV你也许要学这些**
+
 **第一章：机器学习与计算机视觉**
 ***
 
@@ -170,87 +263,3 @@ _深度学习开源框架_
 `keras`<br>
 `优化器详解(GD,SGD,RMSprop等`<br>
 
-
-
-**不错的知识点解析**
-***
-[细讲Attention](https://cloud.tencent.com/developer/article/1377062)
-
-[何为Ground-truth,框是怎么预测的](https://www.cnblogs.com/boligongzhu/p/15066380.html)
-
-[GIoU](https://blog.csdn.net/weixin_41735859/article/details/89288493)
-
-[RPN](https://blog.csdn.net/weixin_44211398/article/details/91613803)
-
-**入门论文**
-***
-[《Gradient-based learning applied to document recognition》CNN万物之源](https://ieeexplore.ieee.org/document/726791)
-
-[《ImageNet Classification with Deep Convolutional Neural Networks》2012冠军网络AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
-
-[《Going Deeper with Convolutions》2015CVPR GoogLeNet 作者大写了L用于致敬LeNet！](https://research.google/pubs/pub43022.pdf)
-
-[《Deep Residual Learning for Image Recognition》工业界滴xing！](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
->续文《ResNeXt》中提到了“组卷积-Group Convolutional”，在大于3层的模块中有一定效果。
-
-[MAE 何凯明CV自监督挖坑作](https://arxiv.org/pdf/2111.06377)
-
-**CNN相关**
-***
-[Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs大核卷积](https://arxiv.org/pdf/2203.06717.pdf )
-
-**Transformer相关**
-***
-[Attention Is All You Need 2017开山之作](https://arxiv.org/pdf/1706.03762.pdf)
->[位置编码为何为Sin-Cos](https://blog.csdn.net/weixin_45424997/article/details/108503792)
-
-[Attention的整体概述](https://zhuanlan.zhihu.com/p/37601161)
-
-[NLP中的Attention原理和源码解析](https://zhuanlan.zhihu.com/p/43493999)
-
-[Transformer模型原理详解](https://zhuanlan.zhihu.com/p/44121378)
-
-[ViT Transformer应用到CV的首作](https://arxiv.org/pdf/2010.11929.pdf)
-
-[Swin Transformer节约注意力计算量，增加Token间信息交互](https://arxiv.org/pdf/2103.14030.pdf)
-
-[S-Transformer超详细的介绍视频](https://www.bilibili.com/video/BV1pL4y1v7jC/?spm_id_from=333.788)
-
-**Conv-T Mix相关**
-***
-[ConvMAE](https://arxiv.org/pdf/2205.03892)
->[稀疏卷积](https://zhuanlan.zhihu.com/p/383299678)
-
-**传统目标跟踪**
-***
-[LK光流法](https://www.cnblogs.com/riddick/p/10586662.html)
-
-[粒子滤波跟踪算法图解](https://blog.csdn.net/dieju8330/article/details/85020056)
-
-[MeanShift均值滤波跟踪](https://www.cnblogs.com/wenyangyang/p/15658853.html)
-
-**目标跟踪**
-***
-[单目标跟踪基本概念与术语](https://zhuanlan.zhihu.com/p/402380960)
-
-[SiamFC 孪生网络跟踪开山之作](https://arxiv.org/pdf/1606.09549)
->[代码细节解读](https://blog.csdn.net/qq_41831753/article/details/113783627)
-
-[MixFormer-跟踪端到端新范式，合并特征提取与融合](https://arxiv.org/pdf/2203.11082)  
-
-[AToM](https://arxiv.org/pdf/1811.07628.pdf)  
->[代码流程解读1](https://zhuanlan.zhihu.com/p/323700929)
->[代码细节解读2](https://zhuanlan.zhihu.com/p/323700929)
-
-[DiMP](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)  
->[ATOM、DiMP代码执行过程详解](https://blog.csdn.net/qq_41831753/article/details/120473107)
-
-**对抗样本**
-***
-[Intriguing properties of neural networks  源头](https://arxiv.org/pdf/1312.6199.pdf)
-
-[对抗样本领域当前最不错的综述](https://arxiv.org/pdf/1801.00553.pdf)
-
-**RGBD Tracking**
-***
-[DepthTrack: Unveiling the Power of RGBD Tracking](https://github.com/xiaozai/DeT)
