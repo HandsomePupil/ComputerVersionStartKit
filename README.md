@@ -97,6 +97,10 @@ expert in AI algorithm.He graduated from top 3 University in France with a doubl
 [DiMP](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)  
 >[ATOM、DiMP代码执行过程详解](https://blog.csdn.net/qq_41831753/article/details/120473107)
 
+**无监督的目标跟踪**
+***
+[无监督目标跟踪概览](https://zhuanlan.zhihu.com/p/432686253)
+
 **对抗样本**
 ***
 [Intriguing properties of neural networks  源头](https://arxiv.org/pdf/1312.6199.pdf)
